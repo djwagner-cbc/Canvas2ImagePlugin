@@ -1,4 +1,4 @@
-### NOTE: Just like the original fork, but with a name that in not mixed case since npm likes snake case.
+### NOTE: Just like the original fork, but with a name that in not mixed case since npm likes kebob case.
 
 
 Canvas2ImagePlugin
