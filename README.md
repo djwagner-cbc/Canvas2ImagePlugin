@@ -1,4 +1,4 @@
-### NOTE: This plugin is NOT being actively maintained. Please feel free to fork it and modify it for your needs.
+### NOTE: Just like the original fork, but with a name that in not mixed case since npm likes snake case.
 
 
 Canvas2ImagePlugin
